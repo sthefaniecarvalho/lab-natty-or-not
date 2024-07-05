@@ -12,10 +12,10 @@ Este vídeo  apresenta uma visão rápida e envolvente do potencial e da aplica�
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
 
 ## 🚀 Resultados
+🎥 [Video](video.mp4)
 
 
 
-```
 
 
 
